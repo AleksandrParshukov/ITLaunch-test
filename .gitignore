@@ -1,4 +1,12 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+.DS_Store
+.idea
+.vscode
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+node_modules/
+npm-debug.*
+less/*.less
+less/*.map
